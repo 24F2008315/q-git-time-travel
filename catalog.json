@@ -29,25 +29,25 @@
     { "id": "prod-ee8f6250-023", "name": "Basic Item 23", "category": "sports", "price": 430.49, "stock": 155, "rating": 4.7 }
   ],
   "aggregations": {
-    "home": {
-      "count": 4,
-      "inventoryValue": 148093.56
-    },
-    "clothing": {
-      "count": 4,
-      "inventoryValue": 134542.87
-    },
     "books": {
       "count": 3,
       "inventoryValue": 74975.18
     },
     "electronics": {
       "count": 7,
-      "inventoryValue": 247759.35
+      "inventoryValue": 250612.47
+    },
+    "home": {
+      "count": 4,
+      "inventoryValue": 187686.92
+    },
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 134881.49
     },
     "sports": {
       "count": 5,
-      "inventoryValue": 195665.25
+      "inventoryValue": 202797.88
     }
   }
 }
