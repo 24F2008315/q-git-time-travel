@@ -1,4 +1,4 @@
-name: CI with Cache
+kname: CI with Cache
 
 on:
   push:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cache dependencies
+      - name: cache-step
         id: cache
         uses: actions/cache@v4
         with:
