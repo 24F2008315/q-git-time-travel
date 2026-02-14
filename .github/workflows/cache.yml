@@ -20,4 +20,4 @@ jobs:
           key: cache-1c85831
 
       - name: prime-cache-1c85831
-        run: echo "Cache hit = ${{ steps.cache.outputs.cache-hit }}"
+        run: echo "Cache hit? ${{ steps.cache.outputs.cache-hit }}"
