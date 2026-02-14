@@ -31,7 +31,7 @@
   "aggregations": {
     "home": {
       "count": 4,
-      "inventoryValue": 170622.39000000001
+      "inventoryValue": 170622.39
     },
     "clothing": {
       "count": 4,
@@ -47,7 +47,7 @@
     },
     "sports": {
       "count": 5,
-      "inventoryValue": 195483.43
+      "inventoryValue": 198581.63
     }
   }
 }
